@@ -6,7 +6,7 @@
 import Foundation
 
 func chapterOne() {
-    var dayOfTheWeek = "Friday"
+    var dayOfTheWeek = "Friday" // change me to see what happens!
     let isSick = false
     
     // on fridays, i always drink a cup of coffee. even if im sick
