@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		743227DA2AF3E3680018F634 /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 743227D92AF3E3680018F634 /* Enums.swift */; };
 		74E289BE2A7C21FC003072EC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E289BD2A7C21FC003072EC /* main.swift */; };
 		74E289C52A7C220C003072EC /* Chapter1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E289C42A7C220C003072EC /* Chapter1.swift */; };
 		74E289C72A7C2211003072EC /* Chapter2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74E289C62A7C2211003072EC /* Chapter2.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		743227D92AF3E3680018F634 /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
 		74E289BA2A7C21FC003072EC /* C2 Fort Pod AM */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C2 Fort Pod AM"; sourceTree = BUILT_PRODUCTS_DIR; };
 		74E289BD2A7C21FC003072EC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		74E289C42A7C220C003072EC /* Chapter1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter1.swift; sourceTree = "<group>"; };
@@ -48,6 +50,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		743227DB2AF3E36B0018F634 /* Chapter 6 */ = {
+			isa = PBXGroup;
+			children = (
+				743227D92AF3E3680018F634 /* Enums.swift */,
+			);
+			path = "Chapter 6";
+			sourceTree = "<group>";
+		};
 		74E289B12A7C21FC003072EC = {
 			isa = PBXGroup;
 			children = (
@@ -73,6 +83,7 @@
 				74E289D02A7C22FF003072EC /* Chapter 3 */,
 				74E289D12A7C2307003072EC /* Chapter 4 */,
 				74E289D22A7C230C003072EC /* Chapter 5 */,
+				743227DB2AF3E36B0018F634 /* Chapter 6 */,
 			);
 			path = "C2 Fort Pod AM";
 			sourceTree = "<group>";
@@ -179,6 +190,7 @@
 				74E289CB2A7C2221003072EC /* Chapter4.swift in Sources */,
 				74E289C52A7C220C003072EC /* Chapter1.swift in Sources */,
 				74E289C72A7C2211003072EC /* Chapter2.swift in Sources */,
+				743227DA2AF3E3680018F634 /* Enums.swift in Sources */,
 				74E289C92A7C221D003072EC /* Chapter3.swift in Sources */,
 				74E289CD2A7C222C003072EC /* Structs.swift in Sources */,
 			);

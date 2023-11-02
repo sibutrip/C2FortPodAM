@@ -8,11 +8,12 @@ import Foundation
 let protagonistName = "Javi"
 
 func readStory() {
-    chapterOne()
-    chapterTwo()
-    chapterThree()
-    chapterFour()
-    chapterFive()
+//    chapterOne()
+//    chapterTwo()
+//    chapterThree()
+//    chapterFour()
+//    chapterFive()
+    chapterSix()
 }
 
 readStory()
