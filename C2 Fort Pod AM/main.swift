@@ -13,7 +13,8 @@ func readStory() {
 //    chapterThree()
 //    chapterFour()
 //    chapterFive()
-    chapterSix()
+//    chapterSix()
+    chapterSeven()
 }
 
 readStory()
